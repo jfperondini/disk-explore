@@ -1,0 +1,18 @@
+{
+  "author": "Perondini",
+  "name": "disk-explore",
+  "description": "lê o conteúdo de unidades de disco, calcula o tamanho das pastas e subpastas em gigabytes (com os tamanhos em megabytes entre parênteses) e salva os resultados em um arquivo .txt, incluindo o nome da unidade que foi lida.",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "nodemon": "^3.1.4"
+  },
+  "keywords": [],
+  "license": "ISC"
+}

@@ -1,0 +1,61 @@
+$RECYCLE.BIN: 0.00 GB (0.00 MB)
+  - S-1-5-21-759647880-3699818053-2115743005-1001: 0.00 GB (0.00 MB)
+
+.Trash-1000: 0.00 GB (0.01 MB)
+  - files: 0.00 GB (0.01 MB)
+  - info: 0.00 GB (0.00 MB)
+
+Brassagem piquete: 35.10 GB (35945.38 MB)
+  - Adobe Premiere Pro Audio Previews: 0.00 GB (1.51 MB)
+  - Adobe Premiere Pro Auto-Save: 0.00 GB (1.00 MB)
+  - Adobe Premiere Pro Captured Video: 0.00 GB (0.00 MB)
+  - trilha: 0.00 GB (4.48 MB)
+  - video: 35.10 GB (35937.81 MB)
+
+System Volume Information: 0.00 GB (0.02 MB)
+
+_: 0.02 GB (16.91 MB)
+  - Adobe: 0.00 GB (0.00 MB)
+  - Media Cache: 0.00 GB (0.42 MB)
+  - Media Cache Files: 0.00 GB (1.18 MB)
+  - Peak Files: 0.01 GB (15.31 MB)
+
+brew: 0.34 GB (346.61 MB)
+  - .dart_tool: 0.10 GB (99.70 MB)
+  - .idea: 0.00 GB (0.04 MB)
+  - .vscode: 0.00 GB (0.00 MB)
+  - android: 0.00 GB (0.07 MB)
+  - assets: 0.00 GB (0.27 MB)
+  - build: 0.18 GB (189.02 MB)
+  - json: 0.01 GB (15.14 MB)
+  - lib: 0.00 GB (0.02 MB)
+  - linux: 0.04 GB (42.32 MB)
+  - src: 0.00 GB (0.00 MB)
+
+ciencias contabeis: 0.01 GB (5.35 MB)
+
+disk-explore: 0.00 GB (0.92 MB)
+  - node_modules: 0.00 GB (0.90 MB)
+  - src: 0.00 GB (0.00 MB)
+
+flutter brasil: 0.78 GB (793.61 MB)
+  - 01. manual: 0.01 GB (9.57 MB)
+  - 02. logos: 0.00 GB (1.17 MB)
+  - 03. tipografia: 0.00 GB (0.30 MB)
+  - 04. lower third: 0.16 GB (161.62 MB)
+  - 05. youtube: 0.05 GB (52.76 MB)
+  - 06. flutter brasil: 0.05 GB (50.79 MB)
+  - 07. vinheta: 0.34 GB (345.55 MB)
+  - 08. video: 0.00 GB (0.00 MB)
+  - 09. 3d: 0.04 GB (40.06 MB)
+  - 10. live: 0.01 GB (10.49 MB)
+  - 11. docs: 0.00 GB (0.00 MB)
+  - 12. timing: 0.07 GB (70.13 MB)
+  - 13. transicao: 0.05 GB (51.17 MB)
+
+geladeira: 0.01 GB (13.98 MB)
+
+portifolio: 0.00 GB (0.42 MB)
+
+visto: 0.00 GB (0.89 MB)
+
